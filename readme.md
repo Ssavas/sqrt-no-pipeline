@@ -6,7 +6,7 @@ by Erik Hertz.
 
 The hardware description language that is used for thihs implementation is Chisel. The implementation is without any pipelines. Therefore it is entirely combinational and produces a result in a single cycle. There is a pipelined version under my git account.
 
-The implementation is synthesized on two different FPGAs. The results and further dicussions can be found in my article title "Using Harmonized Parabolic Synthesis to Implement a Single-Precision Floating-Point SquareRoot Unit" (the link is coming soon). Please refer to it if you use this implementation.
+The implementation is synthesized on two different FPGAs. The results and further dicussions can be found in my article titled "Using Harmonized Parabolic Synthesis to Implement a Single-Precision Floating-Point SquareRoot Unit" (http://urn.kb.se/resolve?urn=urn:nbn:se:hh:diva-39322). Please refer to it if you use this implementation.
 
 How to compile:
 
